@@ -1,3 +1,5 @@
-﻿Hello，this is a pull test
+﻿Add few words
+
+ello，this is a pull test
 
 how to use the git?
